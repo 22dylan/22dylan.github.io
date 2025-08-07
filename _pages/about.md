@@ -23,5 +23,5 @@ Outside of work, Dylan enjoys long distance running, pretending he knows how to 
  
 Note:
 ------
-This website is a work in progress. The template for this website was obtained from [Academic Pages template](https://github.com/academicpages/academicpages.github.io) (many thanks to the authors), and is hosted on [GitHub pages](https://pages.github.com/). 
+This website is a work in progress. The template for this website was obtained from [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is hosted on [GitHub pages](https://pages.github.com/). 
 
