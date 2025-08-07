@@ -20,7 +20,7 @@ About
 
 Dr. Dylan Sanderson is a (next position here) at (next institution here) and (next institution here). His areas of expertise include both coastal engineering and community resilience. 
 
-<!-- incoming Associate Research Scientist at Johns Hopkins University (JHU) and the National Institute of Standards and Technology (NIST).  -->
+<!-- Associate Research Scientist at Johns Hopkins University (JHU) and the National Institute of Standards and Technology (NIST).  -->
 
 Dylan's research focuses on assessing the impacts of natural and climatic hazards on the built and social environments at regional scales. Dylan is particularly interested in numerical and probabilistic modeling of the impacts of hazards, as well as developing and applying geospatial tools to inform community resilience planning. He enjoys using his expertise in community resilience modeling to work alongside and lead interdisciplinary teams. The ultimate aim of Dylan's research is to help communities become more resilient to future natural hazards.
 
