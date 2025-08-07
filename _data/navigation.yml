@@ -8,18 +8,21 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  # TODO: Add list of research areas with some figures for each. 
   - title: "Research"
     url: /research/
 
-  # - title: "Publications"
-  #   url: /publications/
+  # TODO: Add list of publications
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Conferences & Talks"
-  #   url: /conferences-talks/
+  # TODO: Add list of conferences, talks, and map
+  - title: "Conferences & Talks"
+    url: /conferences-talks/
 
-  # - title: "CV"
-  #   url: /cv/    
-
+  # TODO: Add CV that can be downloaded.
+  - title: "CV"
+    url: /cv/    
 
 
   # === to be added later ===
