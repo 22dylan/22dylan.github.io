@@ -12,8 +12,12 @@ This is how you make a title
 ======
 And here is the body. 
  -->
+
+Note: This website is a work in progress.
+
 About
 ======
+
 Dr. Dylan Sanderson is a (next position here) at (next institution here) and (next institution here). His areas of expertise include both coastal engineering and community resilience. 
 
 <!-- incoming Associate Research Scientist at Johns Hopkins University (JHU) and the National Institute of Standards and Technology (NIST).  -->
