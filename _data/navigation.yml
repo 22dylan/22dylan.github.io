@@ -22,7 +22,7 @@ main:
 
   # TODO: Add CV that can be downloaded.
   - title: "CV"
-    url: /cv/    
+    url: /cv-dylan/    
 
 
   # === to be added later ===
@@ -37,3 +37,6 @@ main:
 
   # - title: "Code and Data"
   #   url: /code-data/
+
+
+
