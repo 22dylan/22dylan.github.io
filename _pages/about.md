@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Work in Progress"
+title: "Sanderson Coastal Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This website is a work in progress. The template for this website was obtained from [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is hosted on GitHub pages. 
+This website is a work in progress. The template for this website was obtained from [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and is hosted on [GitHub pages](https://pages.github.com/). 
 
 
 <!-- 
