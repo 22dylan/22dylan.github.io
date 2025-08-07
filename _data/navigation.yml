@@ -12,17 +12,20 @@ main:
     url: /research/
 
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Conferences & Talks"
-    url: /conferences-talks/
+  # - title: "Conferences & Talks"
+  #   url: /conferences-talks/
 
+  # - title: "CV"
+  #   url: /cv/    
+
+
+
+  # === to be added later ===
   # - title: "Teaching"
   #   url: /teaching/    
-
-  - title: "CV"
-    url: /cv/    
 
   # - title: "Broader Impacts"
   #   url: /broader-impacts/
