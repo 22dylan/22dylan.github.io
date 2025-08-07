@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Work in Progress"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,8 @@ This is how you make a title
 ======
 And here is the body. 
  -->
-
+About
+======
 Dr. Dylan Sanderson is a (next position here) at (next institution here) and (next institution here). His areas of expertise include both coastal engineering and community resilience. 
 
 <!-- incoming Associate Research Scientist at Johns Hopkins University (JHU) and the National Institute of Standards and Technology (NIST).  -->
