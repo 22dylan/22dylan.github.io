@@ -28,7 +28,6 @@ author:
   bio              : "Very short bio here."
   location         : "Portland, OR"
   employer         : "Test University"
-  employer         : "Test University 2" # TODO: work on this
   uri              : # URL
   email            : "none@example.org" 
 
