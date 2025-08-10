@@ -103,9 +103,10 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     
     talkdir = os.path.join(os.getcwd(), "..", "_conferences-talks")
-    if not os.path.exists(os.path.join(os.getcwd(), "..", "_conferences-talks")):
-        os.makedirs(os.path.join(os.getcwd(), "..", "_conferences-talks"))
-    with open("../_conferences-talks/" + md_filename, 'w') as f:
+    if not os.path.exists(talkdir):
+        os.makedirs(talkdir)
+    with open(os.path.join(talkdir, md_filename), "w") as f:
+    # with open(talkdir + md_filename, 'w') as f:
         f.write(md)
 
 
