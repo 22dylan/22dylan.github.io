@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
+    "Preparing for Future Hazards Amplified by Sea Level Rise: Considering Impacts to Infrastructure and Intelligent Agents<br />2025 NHERI Computational Symposium; Los Angeles, CA",
     34.0536909,
     -118.242766
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "An agent-based model of adaptation to sea-level rise considering impacts to infrastructure.<br />2024 Natural Hazards Workshop; Broomfield, CO",
+    39.9403995,
+    -105.05208
+  ],
+  [
+    "A Decision-Support Tool for Coastal Community Resilience: Future Impacts from Sea Level Rise and Self-Learning Agents<br />2024 AGU Annual Meeting; Washington, DC",
+    38.8950368,
+    -77.0365427
   ]
 ];
