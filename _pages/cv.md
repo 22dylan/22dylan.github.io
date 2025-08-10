@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 CV coming soon.
+
+<embed src="../files/sanderson_cv.pdf" width="500" height="375" 
+ type="application/pdf">
