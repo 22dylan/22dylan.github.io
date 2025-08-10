@@ -9,5 +9,5 @@ redirect_from:
 
 CV coming soon.
 
-<embed src="../files/sanderson_cv.pdf" width="500" height="375" 
+<embed src="../files/sanderson_cv.pdf" width="850" height="700" 
  type="application/pdf">
