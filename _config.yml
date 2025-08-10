@@ -125,7 +125,7 @@ atom_feed:
   hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 follow_fotter:
-  hide                   : true
+  hide                   : true     # hide the footer at the bottom of page that says where to `follow`
 
 # SEO Related
 google_site_verification :
