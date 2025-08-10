@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Work in Progress"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,6 @@ This is how you make a title
 And here is the body. 
  -->
 
-Note: This website is a work in progress.
-
-About
-======
-
 Dr. Dylan Sanderson is a (next position here) at (next institution here) and (next institution here). His areas of expertise include both coastal engineering and community resilience. 
 
 <!-- Associate Research Scientist at Johns Hopkins University (JHU) and the National Institute of Standards and Technology (NIST).  -->
@@ -27,7 +22,6 @@ Dylan's research focuses on assessing the impacts of natural and climatic hazard
 Prior to beginning his current role, Dylan was a [National Research Council Postdoctoral Fellow](https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs) at the National Institute of Standards and Technology (2023-2025). In this role, Dylan worked on a funded research proposal to develop [geospatial decision-support tools](https://zenodo.org/records/15120769) to help communities prepare for the [future impacts of sea-level rise on buildings and infrastructure](https://zenodo.org/records/12573416). Prior to his postdoctoral fellowship, Dylan obtained both his PhD (2023) and MS (2020) degrees in Civil Engineering from Oregon State University (OSU). At OSU, Dylan worked with the [Seaside, Oregon multi-hazard testbed](https://22dylan.github.io/pyincore_seaside_jb/), developed a [coupled urban change and hazard consequence model](https://22dylan.github.io/UrbanChange-HazardConsequence/intro.html) to evaluate community resilience plans, contributed to [IN-CORE](https://tools.in-core.org/), and [developed of a model](https://tinyurl.com/rgnl-locl-resilience) to evaluate Oregon’s road and bridge transportation network under earthquake and tsunami hazards. Dylan previously worked for the U.S. Army Corps of Engineers’ Research and Development Center (USACE-ERDC) in the Coastal and Hydraulics Laboratory (2016-2018). Here, he was a principal investigator for two probabilistic lifecycle analysis models of coastal storm risk reduction, Beach-fx and G2CRM.
 
 Outside of work, Dylan enjoys long distance running, pretending he knows how to cook well, and spending time in/around Portland with his lovely partner. Together, they have one cat.
-
 
  
 Note:
