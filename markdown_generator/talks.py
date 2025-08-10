@@ -33,8 +33,8 @@ import os
 
 # In[3]:
 
-talks = pd.read_csv("talks.tsv", sep="\t", header=0)
-talks
+talks = pd.read_csv("talks.csv", sep=",", header=0)
+print(talks)
 
 
 # ## Escape special characters
@@ -65,10 +65,10 @@ def html_escape(text):
 loc_dict = {}
 
 for row, item in talks.iterrows():
-    
     md_filename = str(item.date) + "-" + item.url_slug + ".md"
     html_filename = str(item.date) + "-" + item.url_slug 
-    year = item.date[:4]
+    # year = item.date[:4]
+    year = item.date
     
     md = "---\ntitle: \""   + item.title + '"\n'
     md += "collection: talks" + "\n"
@@ -101,9 +101,10 @@ for row, item in talks.iterrows():
         
         
     md_filename = os.path.basename(md_filename)
-    #print(md)
     
-    with open("../_talks/" + md_filename, 'w') as f:
+    if not os.path.exists(os.path.join(os.getcwd(), "..", "_conferences_talks")):
+        os.makedirs(os.path.join(os.getcwd(), "..", "_conferences_talks"))
+    with open("../_conferences_talks/" + md_filename, 'w') as f:
         f.write(md)
 
 
