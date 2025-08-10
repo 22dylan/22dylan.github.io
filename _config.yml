@@ -281,7 +281,7 @@ defaults:
   #     comment: true
   # _conferences-talks
   - scope:
-      path: ""
+      path: "_conferences-talks"
       type: talks
     values:
       layout: talk
