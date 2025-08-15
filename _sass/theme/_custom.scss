@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$tan                        : #E1D9BC;
+$tan                       : #E1D9BC;
 $dark-tan                  : mix(#000, $tan, 40%);
 $darker-tan                : mix(#000, $tan, 60%);
 $light-tan                 : #9ba1a6;
@@ -33,7 +33,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-footer-bg-color            : #{$tan};
     --global-border-color               : #{$lighter-tan};
     --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
+    --global-code-background-color      : #{$tan};
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
     --global-link-color                 : #52adc8;
