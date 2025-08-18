@@ -34,14 +34,14 @@ $sidebar-screen-min-width   : 1024px;
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
+    --global-code-text-color            : mix(#000, #030061, 20%); /* Darker variation for code text */
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
-    --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
+    --global-link-color                 : #030061; /* Base link color */
+    --global-link-color-hover           : mix(#000, #030061, 25%); /* Darker on hover */
+    --global-link-color-visited         : mix(#fff, #030061, 25%); /* Lighter when visited */
+    --global-masthead-link-color        : mix(#000, #030061, 10%); /* Slightly darker for masthead links */
+    --global-masthead-link-color-hover  : #030061; /* Base color on hover */
+    --global-text-color                 : #030061; /* Main text color */
+    --global-text-color-light           : mix(#fff, #030061, 20%); /* Lighter variation for general text */
     --global-thead-color                : #{$lighter-gray};
 }
