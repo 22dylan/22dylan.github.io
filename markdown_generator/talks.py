@@ -182,7 +182,8 @@ def make_talk_map():
     getorg.orgmap.output_html_cluster_map(location_dict, folder_name=talkmap_dir, hashed_usernames=False)
 
     shutil.rmtree(os.path.join(os.getcwd(), "temp-talks"))
-
+    print("\nAfter making map, need to manually change lat/long to [35, -96],\n"
+        "and zoom to 3. Also need to comment out the 'Mouse over ...'\n")
 
 process_talks()
 make_talk_map()
