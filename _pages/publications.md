@@ -4,10 +4,11 @@ sitemap: true
 permalink: /publications/
 ---
 
+A list of my publications is below. This is also available in my CV. 
 
-Peer Review
+Peer Reviewed Papers
 ---
-0. **Sanderson, D.**, McAllister, T., and Helgeson, J. (2025). Simulating Future Household Adaptation to Sea Level Rise using Agent-Based Modeling and Reinforcement Learning. *International Journal of Disaster Risk Reduction*. [https://doi.org/10.1016/j.ijdrr.2025.105742](https://doi.org/10.1016/j.ijdrr.2025.105742).
+0. **Sanderson, D.**, McAllister, T., and Helgeson, J. (2025). Simulating Future Household Adaptation to Sea Level Rise using Agent-Based Modeling and Reinforcement Learning. *International Journal of Disaster Risk Reduction*, 128. [https://doi.org/10.1016/j.ijdrr.2025.105742](https://doi.org/10.1016/j.ijdrr.2025.105742).
 0. **Sanderson, D.**, and McAllister, T. (2025). Quantifying future local impacts of sea-level rise on buildings and infrastructure. *International Journal of Disaster Risk Reduction*, 127. [https://doi.org/10.1016/j.ijdrr.2025.105649](https://doi.org/10.1016/j.ijdrr.2025.105649)
 0. Meselhe, A., Cox, D., **Sanderson, D.**, and Tilt, J. (2025). Human-centered connectivity and transportation network recovery following a Cascadia Subduction Zone Earthquake and Tsunami. *Sustainable and Resilient Infrastructure*, 1-23. [https://doi.org/10.1080/23789689.2025.2525697](https://doi.org/10.1080/23789689.2025.2525697)
 0. Sen Gupta, H., Adluri, T., **Sanderson, D.**, Gonzalez, A., Nicholson, C., and Cox, D. (2024). Multi-objective optimization of mitigation strategies for buildings subject to multiple hazards. *International Journal of Disaster Risk Reduction*, 100. [https://doi.org/10.1016/j.ijdrr.2023.104125](https://doi.org/10.1016/j.ijdrr.2023.104125)
@@ -21,4 +22,12 @@ Peer Review
 0. **Sanderson, D.**, Gravens, M., and Permenter, R. (2019). Methodology for identifying a subset of representative storm surge hydrographs from a coastal storm modeling database. *Journal of Coastal Research*, 35(5), 1095-1105. [https://doi.org/10.2112/JCOASTRES-D-18-00052.1](https://doi.org/10.2112/JCOASTRES-D-18-00052.1)
 {: reversed="reversed"}
 
+Technical Reports and Notes
+---
+
+0. Johnson, B., and **Sanderson, D**. (2020). On the use of CSHORE for Beach-fx. *ERDC/CHL Technical Notes Collection* (ERDC/CHL CHETN-II-59), U.S. Army Engineer Research and Development Center, Vicksburg, MS. [http://dx.doi.org/10.21079/11681/37949](http://dx.doi.org/10.21079/11681/37949)
+0. **Sanderson, D.**, and Gravens, M. (2017). Representative storm selection tool: An automated procedure for the selection of representative storm events from a probabilistic database. *ERDC/CHL Technical Notes Collection* (ERDC/CHL CHETN-VIII-10), U.S. Army Engineer Research and Development Center, Vicksburg, MS. [http://dx.doi.org/10.21079/11681/26829](http://dx.doi.org/10.21079/11681/26829)
+0. Gravens, M., and **Sanderson, D.** (2017). Identification and selection of representative storm events from a probabilistic storm database. *ERDC/CHL Technical Notes Collection* (ERDC/CHL CHETN- VIII-9), U.S. Army Engineer Research and Development Center, Vicksburg, MS. [http://dx.doi.org/10.21079/11681/26341](http://dx.doi.org/10.21079/11681/26341)
+{: reversed="reversed"}
+ 
 
