@@ -183,7 +183,8 @@ def make_talk_map():
 
     shutil.rmtree(os.path.join(os.getcwd(), "temp-talks"))
     print("\nAfter making map, need to manually change lat/long to [35, -96],\n"
-        "and zoom to 3. Also need to comment out the 'Mouse over ...'\n")
+        "and zoom to 3. Also need to comment out the 'Mouse over ...'\n"
+        "This is done in talkmap/map.html")
 
 process_talks()
 make_talk_map()
