@@ -12,7 +12,9 @@ This page summarizes my research and development projects completed throughout m
 <!-- ============================ -->
 <details>
 <summary> <b> Hurricane Overland Hazards and the Built Environment </b> </summary>
-<i> More Coming Soon <i>
+
+<i> More Coming Soon <i><br>
+
 </details><br>
 <!-- ============================ -->
 
@@ -43,9 +45,9 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 
 <!-- ============================ -->
 <details>
-<summary> <b> NIST Community Resilience Center of Excellence </b> </summary>
-<i> More Coming Soon <i>
-</details>
+<summary> <b> NIST Community Resilience Center of Excellence </b> </summary><br>
+<i> More Coming Soon <i><br>
+</details><br>
 <!-- ============================ -->
 
 
