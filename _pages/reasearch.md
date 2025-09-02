@@ -4,7 +4,9 @@ sitemap: true
 permalink: /research/
 ---
 
-My research focuses on assessing the impacts of natural and climatic hazards on the built and social environments at regional scales. This page summarizes my research and development projects completed throughout my career. Click on a header below to learn more each project. 
+My research focuses on assessing the impacts of natural and climatic hazards on the built and social environments at regional scales. I am particularly interested in both the development of geospatial decision-support tools and using existing models in novel ways. 
+
+This page summarizes my research and development projects completed throughout my career. Click on a header below to learn more each project. 
 
 
 <!-- Hurricane Overland Hazards and the Built Environment
@@ -22,8 +24,8 @@ I completed this work during my time as a National Research Council Postdoctoral
 <br><br>
 
 <i> Nice Figures: </i> <br>
-<img src="../images/research/fig6-exposure.pdf">
-<img src="../images/research/fig1-flowchart.pdf">
+<img src="../images/research/fig6-exposure.png">
+<img src="../images/research/fig1-flowchart.png">
 
 <br>
 
