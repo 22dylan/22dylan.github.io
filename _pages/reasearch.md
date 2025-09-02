@@ -17,6 +17,8 @@ This page summarizes my research and development projects completed throughout m
 <!-- ============================ -->
 
 
+<br>
+
 <!-- ============================ -->
 <details>
 <summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
