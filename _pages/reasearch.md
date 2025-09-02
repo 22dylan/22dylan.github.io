@@ -23,7 +23,7 @@ I completed this work during my time as a National Research Council Postdoctoral
 
 <i> Nice Figures: </i> <br>
 <img src="../images/research/fig6-exposure.pdf">
-<img src="">
+<img src="../images/research/fig1-flowchart.pdf">
 
 <br>
 
