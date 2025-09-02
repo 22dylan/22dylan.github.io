@@ -4,8 +4,7 @@ sitemap: true
 permalink: /research/
 ---
 
-My research focuses on assessing the impacts of natural and climatic hazards on the built and social environments at regional scales. 
-Click on a header below to learn more each project. 
+My research focuses on assessing the impacts of natural and climatic hazards on the built and social environments at regional scales. This page summarizes my research and development projects completed throughout my career. Click on a header below to learn more each project. 
 
 
 <!-- Hurricane Overland Hazards and the Built Environment
@@ -14,7 +13,7 @@ This work focuses on ___
 
  -->
 
-<details>
+<!-- <details>
 
 <summary>Tips for collapsed sections</summary>
 
@@ -28,11 +27,11 @@ You can add an image or a code block, too.
    puts "Hello World"
 ```
 
-</details>
+</details> -->
 
 
 <details>
-<summary> Evaluating Future Impacts of Sea Level Rise on Coastal Communities</summary>
+<summary> <i>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </i> </summary>
 
 ## Summary
 
