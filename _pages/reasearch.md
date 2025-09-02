@@ -18,17 +18,20 @@ This work focuses on ___
 <summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
 
 <i> Summary: </i> <br>
-I completed this work as a part of my postdoc as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology. The objective of this work was to develop decision-support tools <br><br>
+I completed this work during my time as a National Research Council Postdoctoral Fellow at NIST. The objective of this work was to develop decision-support tools to help communities become more resilient to chronic hazards that are associated with a changing climate. In particular, I focused on flooding due to sea-level rise and high tides, and the resulting impacts on buildings, electric power, and transportation networks. 
+<br><br>
 
-<i> Nice Figure: </i> <br>
+<i> Nice Figures: </i> <br>
+<embed src="../files/research/fig6-exposure.pdf" width="850">
 
 <br>
 
 <i>Research products originating from this project</i>: <br>
-Two manuscripts (<a href="https://doi.org/10.1016/j.ijdrr.2025.105649">1</a>, <a href="https://doi.org/10.1016/j.ijdrr.2025.105742">2</a>), one Jupyter notebook (<a href="https://zenodo.org/records/12573416">1</a>), and one geospatial agent-based model (<a href="https://zenodo.org/records/15120769">1</a>). <br>
+Two manuscripts (<a href="https://doi.org/10.1016/j.ijdrr.2025.105649">1</a>, <a href="https://doi.org/10.1016/j.ijdrr.2025.105742">2</a>), one Jupyter notebook (<a href="https://doi.org/10.5281/zenodo.11402964">1</a>), and one geospatial agent-based model (<a href="https://doi.org/10.5281/zenodo.15120768">1</a>). <br><br>
+
 
 <i> Funding</i>: <br>
-Two years of salary plus travel assistance. <br>
+Two years of salary plus travel assistance. <br><br>
 
 </details>
 
