@@ -13,7 +13,7 @@ This page summarizes my research and development projects completed throughout m
 <details>
 <summary> <b> Hurricane Overland Hazards and the Built Environment </b> </summary>
 <i> More Coming Soon <i>
-</details>
+</details><br>
 <!-- ============================ -->
 
 
@@ -29,7 +29,7 @@ I completed this work during my time as a National Research Council Postdoctoral
 <figcaption>Building exposure in 2100 quantified as number of days per year exposed. Three different sea level rise scenarios (low, intermediate, and high) are shown.</figcaption><br>
 
 <img src="../images/research/fig1-flowchart.png"><br>
-<figcaption>Framework for developing and agent-based model of household adaptation to the future impacts of SLR. Reinforcement learning is used to characterize agent behavior.</figcaption><br>
+<figcaption>Framework for developing an agent-based model of household adaptation to the future impacts of SLR. Reinforcement learning is used to characterize agent behavior.</figcaption><br>
 
 <br>
 
