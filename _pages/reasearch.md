@@ -9,11 +9,13 @@ My research focuses on assessing the impacts of natural and climatic hazards on 
 
 Hurricane Overland Hazards and the Built Environment
 ------
-This work focuses on ___
+This work focuses on ___ 
 
 
-Evaluating Future Impacts of Sea Level Rise on Coastal Communities
+<details>
+<summary> Evaluating Future Impacts of Sea Level Rise on Coastal Communities</summary>
 ------
+
 I completed this work as a part of my postdoc as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology. 
 
 Nice Figure:
@@ -26,7 +28,7 @@ Research products originating from this project:
 
 Funding: 
 - Two years of salary plus travel assistance. 
-
+</details>
 
 
 
