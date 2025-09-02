@@ -12,10 +12,8 @@ This page summarizes my research and development projects completed throughout m
 <!-- ============================ -->
 <details>
 <summary> <b> Hurricane Overland Hazards and the Built Environment </b> </summary>
-
-<i> More Coming Soon <i><br>
-
-</details><br>
+<i> More coming soon. </i> <br>
+</details>
 <!-- ============================ -->
 
 
@@ -42,6 +40,7 @@ Two manuscripts (<a href="https://doi.org/10.1016/j.ijdrr.2025.105649">1</a>, <a
 Two years of salary plus travel assistance through the <a href="https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs" >National Research Council Postdoctoral Fellowship program.</a> <br><br>
 </details>
 <!-- ============================ -->
+
 
 <!-- ============================ -->
 <details>
