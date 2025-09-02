@@ -22,8 +22,8 @@ I completed this work during my time as a National Research Council Postdoctoral
 <br><br>
 
 <i> Nice Figures: </i> <br>
-<img src="../files/research/fig6-exposure.pdf">
-<!-- <embed src="../files/research/fig6-exposure.pdf" width="850"> -->
+<img src="../images/research/fig6-exposure.pdf">
+<img src="">
 
 <br>
 
