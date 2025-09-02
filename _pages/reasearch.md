@@ -20,12 +20,11 @@ This work focuses on ___
 <summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
 
 <i> Summary: </i> <br>
-I completed this work during my time as a National Research Council Postdoctoral Fellow at NIST. The objective of this work was to develop decision-support tools to help communities become more resilient to chronic hazards that are associated with a changing climate. In particular, I focused on flooding due to sea-level rise and high tides, and the resulting impacts on buildings, electric power, and transportation networks. 
-<br><br>
+I completed this work during my time as a National Research Council Postdoctoral Fellow at NIST. The objective of this work was to develop decision-support tools to help communities become more resilient to chronic hazards that are associated with a changing climate. In particular, I focused on flooding due to sea level rise (SLR) and high tides, and considered the resulting impacts on buildings, electric power, and transportation networks. On top of this, I developed an agent-based model to simulate how households may respond to the future impacts of SLR. Reinforcement learning was used to characterize agent behavior. This allows agents to learn for themselves how to respond to changes in their envirnment. <br><br>
 
-<i> Nice Figures: </i> <br>
-<img src="../images/research/fig6-exposure.png">
-<img src="../images/research/fig1-flowchart.png">
+<i> Figures from this work: </i> <br>
+<img src="../images/research/fig6-exposure.png"><br>
+<img src="../images/research/fig1-flowchart.png"><br>
 
 <br>
 
@@ -34,7 +33,7 @@ Two manuscripts (<a href="https://doi.org/10.1016/j.ijdrr.2025.105649">1</a>, <a
 
 
 <i> Funding</i>: <br>
-Two years of salary plus travel assistance. <br><br>
+Two years of salary plus travel assistance through the <a href="https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs" >National Research Council Postdoctoral Fellowship program.< </a> <br><br>
 
 </details>
 
