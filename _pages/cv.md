@@ -9,7 +9,7 @@ redirect_from:
 
 My full CV can be viewed and <a href="../files/sanderson-cv.pdf" download>downloaded</a> below. 
 
-A shorter, 2-page, CV can be downloaded <a href="../files/sanderson-cv-short.pdf" download>here</a>.
+A shorter 2-page CV is available <a href="../files/sanderson-cv-short.pdf" download>here</a>.
 
 <embed src="../files/sanderson-cv.pdf" width="850" height="700" 
  type="application/pdf">
