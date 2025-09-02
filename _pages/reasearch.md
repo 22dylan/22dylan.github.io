@@ -31,8 +31,6 @@ I completed this work during my time as a National Research Council Postdoctoral
 <img src="../images/research/fig1-flowchart.png"><br>
 <figcaption>Framework for developing an agent-based model of household adaptation to the future impacts of SLR. Reinforcement learning is used to characterize agent behavior.</figcaption><br>
 
-<br>
-
 <i>Research products originating from this project</i>: <br>
 Two manuscripts (<a href="https://doi.org/10.1016/j.ijdrr.2025.105649">1</a>, <a href="https://doi.org/10.1016/j.ijdrr.2025.105742">2</a>), one Jupyter notebook (<a href="https://doi.org/10.5281/zenodo.11402964">1</a>), and one geospatial agent-based model (<a href="https://doi.org/10.5281/zenodo.15120768">1</a>). <br><br>
 
@@ -44,7 +42,7 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 
 <!-- ============================ -->
 <details>
-<summary> <b> NIST Community Resilience Center of Excellence </b> </summary><br>
+<summary> <b> NIST Community Resilience Center of Excellence </b> </summary>
 <i> More coming soon. </i> <br>
 </details>
 <!-- ============================ -->
