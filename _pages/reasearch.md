@@ -15,10 +15,28 @@ This work focuses on ___
 
 
 <details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
+<details>
 <summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
 
 <i> Summary: </i> <br>
-I completed this work as a part of my postdoc as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology. The objective of this work was to develop decision-support tools <br>
+I completed this work as a part of my postdoc as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology. The objective of this work was to develop decision-support tools <br><br>
 
 <i> Nice Figure: </i> <br>
 
