@@ -42,11 +42,10 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 <!-- ============================ -->
 
 
-
 <!-- ============================ -->
 <details>
 <summary> <b> NIST Community Resilience Center of Excellence </b> </summary><br>
-<i> More Coming Soon <i><br>
+<i> More coming soon. </i> <br>
 </details>
 <!-- ============================ -->
 
@@ -55,7 +54,7 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 <!-- ============================ -->
 <details>
 <summary> <b> Interdisciplinary Alternative Futures Modeling for the Oregon Coast </b> </summary>
-<i> More Coming Soon <i>
+<i> More coming soon. </i> <br>
 </details>
 <!-- ============================ -->
 
@@ -64,7 +63,7 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 <!-- ============================ -->
 <details>
 <summary> <b> Beach-fx and G2CRM Model Development </b> </summary>
-<i> More Coming Soon <i>
+<i> More coming soon. </i> <br>
 </details>
 <!-- ============================ -->
 
