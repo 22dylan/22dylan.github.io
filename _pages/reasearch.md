@@ -9,13 +9,15 @@ My research focuses on assessing the impacts of natural and climatic hazards on 
 This page summarizes my research and development projects completed throughout my career. Click on a header below to learn more each project. 
 
 
-<!-- Hurricane Overland Hazards and the Built Environment
-------
-This work focuses on ___ 
+<!-- ============================ -->
+<details>
+<summary> <b> Hurricane Overland Hazards and the Built Environment </b> </summary>
+<i> More Coming Soon <i>
+</details>
+<!-- ============================ -->
 
- -->
 
-
+<!-- ============================ -->
 <details>
 <summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
 
@@ -36,20 +38,41 @@ Two manuscripts (<a href="https://doi.org/10.1016/j.ijdrr.2025.105649">1</a>, <a
 
 <i> Funding</i>: <br>
 Two years of salary plus travel assistance through the <a href="https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs" >National Research Council Postdoctoral Fellowship program.</a> <br><br>
-
 </details>
+<!-- ============================ -->
 
-
+<!-- ============================ -->
 <details>
-    <summary> <b> Description </b> </summary>
-    <i> More Coming Soon <i>
+<summary> <b> NIST Community Resilience Center of Excellence </b> </summary>
+<i> More Coming Soon <i>
 </details>
+<!-- ============================ -->
 
-NIST Community Resilience Center of Excellence 
-------
 
-Interdisciplinary Alternative Futures Modeling for the Oregon Coast 
-------
 
-Beach-fx and G2CRM model development 
-------
+<!-- ============================ -->
+<details>
+<summary> <b> Interdisciplinary Alternative Futures Modeling for the Oregon Coast </b> </summary>
+<i> More Coming Soon <i>
+</details>
+<!-- ============================ -->
+
+
+
+
+
+
+
+<!-- ============================ -->
+<details>
+<summary> <b> Beach-fx and G2CRM Model Development </b> </summary>
+<i> More Coming Soon <i>
+</details>
+<!-- ============================ -->
+
+
+
+
+
+
+
