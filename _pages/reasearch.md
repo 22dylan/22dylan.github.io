@@ -23,8 +23,11 @@ This work focuses on ___
 I completed this work during my time as a National Research Council Postdoctoral Fellow at NIST. The objective of this work was to develop decision-support tools to help communities become more resilient to chronic hazards that are associated with a changing climate. In particular, I focused on flooding due to sea level rise (SLR) and high tides, and considered the resulting impacts on buildings, electric power, and transportation networks. On top of this, I developed an agent-based model to simulate how households may respond to the future impacts of SLR. Reinforcement learning was used to characterize agent behavior. This allows agents to learn for themselves how to respond to changes in their envirnment. <br><br>
 
 <i> Figures from this work: </i> <br>
-<img src="../images/research/fig6-exposure.png"><br><br>
+<img src="../images/research/fig6-exposure.png"><br>
+<figcaption>Building exposure in 2100 quantified as number of days per year exposed. Three different sea level rise scenarios (low, intermediate, and high) are shown.</figcaption><br>
+
 <img src="../images/research/fig1-flowchart.png"><br>
+<figcaption>Framework for developing and agent-based model of household adaptation to the future impacts of SLR. Reinforcement learning is used to characterize agent behavior.</figcaption><br>
 
 <br>
 
