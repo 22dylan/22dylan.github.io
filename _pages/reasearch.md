@@ -17,8 +17,6 @@ This page summarizes my research and development projects completed throughout m
 <!-- ============================ -->
 
 
-<br>
-
 <!-- ============================ -->
 <details>
 <summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
@@ -44,11 +42,12 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 <!-- ============================ -->
 
 
+
 <!-- ============================ -->
 <details>
 <summary> <b> NIST Community Resilience Center of Excellence </b> </summary><br>
 <i> More Coming Soon <i><br>
-</details><br>
+</details>
 <!-- ============================ -->
 
 
@@ -59,10 +58,6 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 <i> More Coming Soon <i>
 </details>
 <!-- ============================ -->
-
-
-
-
 
 
 
