@@ -15,18 +15,20 @@ This work focuses on ___
 
 
 <details>
-<summary> <i>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </i> </summary>
+<summary> <b>Evaluating Future Impacts of Sea Level Rise on Coastal Communities </b> </summary>
 
-<b> Summary: </b> <br>
-I completed this work as a part of my postdoc as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology. The objective of this work was to develop decision-support tools 
+<i> Summary: </i> <br>
+I completed this work as a part of my postdoc as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology. The objective of this work was to develop decision-support tools <br>
 
-<b> Nice Figure: </b> <br>
+<i> Nice Figure: </i> <br>
 
-<b>Research products originating from this project</b>: <br>
-Two manuscripts ([1](https://doi.org/10.1016/j.ijdrr.2025.105649),[2](https://doi.org/10.1016/j.ijdrr.2025.105742)), one Jupyter notebook ([1](https://zenodo.org/records/12573416)), and one geospatial agent-based model ([1](https://zenodo.org/records/15120769)). 
+<br>
 
-<b> Funding</b>: <br>
-Two years of salary plus travel assistance. 
+<i>Research products originating from this project</i>: <br>
+Two manuscripts (<a href=https://doi.org/10.1016/j.ijdrr.2025.105649 >1</a>, <a href=https://doi.org/10.1016/j.ijdrr.2025.105742 >2</a>), one Jupyter notebook (<a href=https://zenodo.org/records/12573416 >1</a>), and one geospatial agent-based model (<a href=https://zenodo.org/records/15120769 >1</a>). <br>
+
+<i> Funding</i>: <br>
+Two years of salary plus travel assistance. <br>
 
 </details>
 
