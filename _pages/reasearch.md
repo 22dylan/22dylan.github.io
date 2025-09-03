@@ -45,7 +45,7 @@ Two years of salary plus travel assistance through the <a href="https://www.nati
 <summary> <b> NIST Community Resilience Center of Excellence </b> </summary>
 
 <i> Summary: </i> <br>
-I completed this work during my time as a masters and PhD student at Oregon State University (2018-2023). This project in particular was focused on contributing to the development of IN-CORE. My contributions focused on the multi-hazard (earthquake/tsunami) Seaside, Oregon testbed, where I: (1) assessed damages, economic losses, and network connectivity under various earthquake/tsunami return periods, (2) developed an agent-based model that considers how population growth, urban change, and urban planning measures impact resilience, and (3) compared two building inventories for use in risk and resilience modeling. <br><br>
+I completed this work during my time as a masters and PhD student at Oregon State University (2018-2023). This project in particular was focused on contributing to the development of IN-CORE. My contributions focused on the multi-hazard (earthquake/tsunami) Seaside, Oregon testbed, where I: (1) assessed damages, economic losses, and network connectivity under various earthquake/tsunami return periods, (2) developed an agent-based model that considers how population growth, urban change, and urban planning measures impact community resilience, and (3) compared two building inventories for use in risk and resilience modeling. <br><br>
 
 <i> Figure from this work: </i> <br>
 <img src="../images/research/seaside.png"><br>
@@ -53,10 +53,10 @@ I completed this work during my time as a masters and PhD student at Oregon Stat
 
 
 <i>Research products originating from this work</i>: <br>
-Seven journal papers: four first author (<a href="https://doi.org/10.1007/s11069-021-04900-9">1</a>, <a href="https://doi.org/10.1080/23789689.2021.1966164">2</a>, <a href="https://doi.org/10.1029/2022EF003059">3</a>, <a href="https://doi.org/10.1016/j.ijdrr.2023.103755">4</a>), three as co-author (<a href="https://doi.org/10.1061/JITSE4.ISENG-2229">5</a>, <a href="https://doi.org/10.1007/s11069-023-05937-8">6</a>, <a href="https://doi.org/10.1016/j.ijdrr.2023.104125">7</a>), one dataset (<a href="https://doi.org/10.17603/ds2-sp99-xv89">1</a>), one agent-based model (<a href="https://doi.org/10.5281/zenodo.6870341">1</a>), four Jupyter notebooks and books (<a href="https://22dylan.github.io/UrbanChange-HazardConsequence/intro.html">1</a>, <a href="https://doi.org/10.5281/zenodo.6998352">2</a>, <a href="https://github.com/22dylan/pyincore_notebooks/tree/master/20200728_SBN">3</a>, <a href="https://github.com/22dylan/pyincore_notebooks/tree/master/20191219_Seaside_Dist">4</a>). <br><br>
+Seven journal papers: four as first author (<a href="https://doi.org/10.1007/s11069-021-04900-9">1</a>, <a href="https://doi.org/10.1080/23789689.2021.1966164">2</a>, <a href="https://doi.org/10.1029/2022EF003059">3</a>, <a href="https://doi.org/10.1016/j.ijdrr.2023.103755">4</a>), three as a co-author (<a href="https://doi.org/10.1061/JITSE4.ISENG-2229">5</a>, <a href="https://doi.org/10.1007/s11069-023-05937-8">6</a>, <a href="https://doi.org/10.1016/j.ijdrr.2023.104125">7</a>), one dataset (<a href="https://doi.org/10.17603/ds2-sp99-xv89">1</a>), one agent-based model (<a href="https://doi.org/10.5281/zenodo.6870341">1</a>), four Jupyter notebooks and books (<a href="https://22dylan.github.io/UrbanChange-HazardConsequence/intro.html">1</a>, <a href="https://doi.org/10.5281/zenodo.6998352">2</a>, <a href="https://github.com/22dylan/pyincore_notebooks/tree/master/20200728_SBN">3</a>, <a href="https://github.com/22dylan/pyincore_notebooks/tree/master/20191219_Seaside_Dist">4</a>). <br><br>
 
 <i> Funding</i>: <br>
-Five years of support as a graduate research assistant. One year was supported through an Oregon State University Civil and Construction Engineering Graduate Research Fellowship. <br><br>
+Five years of support as a graduate research assistant. Partial support provided through the NIST Center of Excellence for Community Resilience Planning. One year was supported through an Oregon State University Civil and Construction Engineering Graduate Research Fellowship. <br><br>
 
 </details>
 <!-- ============================ -->
@@ -66,7 +66,24 @@ Five years of support as a graduate research assistant. One year was supported t
 <!-- ============================ -->
 <details>
 <summary> <b> Interdisciplinary Alternative Futures Modeling for the Oregon Coast </b> </summary>
-<i> More coming soon. </i> <br>
+<i> Summary: </i> <br>
+I completed this work during my time as a masters and PhD student at Oregon State University (2018-2023). This project in particular was focused on Interdisciplinary modeling of Oregon Coastal communities. For this project, I assessed the impact of the Cascadia Subduction Zone (CSZ) on buildings and the transportation network for the entire Oregon coast. These methods were integrated into an agent-based model, Envision, as a part of the Oregon Coastal Futures Project. <br><br>
+
+My work assessing the impacts to the transportation network lead to a journal paper on considering the resilience of road and bridge transportation networks at both local- and regional-scales. The local scale refers to considering transportation damage, recovery, and increases in travel times within a community's boundaries (e.g., getting from home to work), whereas the regional scale refers to damage, recovery, and increases in travel times between communities (e.g., getting from community A to community B). The publication of this work lead to a press release from Oregon State University and participation in radio interviews by myself and co-authors.
+
+<i> Figures from this work: </i> <br>
+<img src="../images/research/regional.png"><br>
+<figcaption>Figure of the regional highway transportation network showing location of 18 coastal communities that was considered.</figcaption><br>
+
+<img src="../images/research/local.png"><br>
+<figcaption>Example of loss of functionality and recovery for one of the coastal communities (Newport, OR).</figcaption><br>
+
+<i>Research products originating from this work</i>: <br>
+Two journal papers: one first author (<a href="https://doi.org/10.1061/(ASCE)IS.1943-555X.0000694">1</a>), one as a co-author (<a href="https://doi.org/10.1080/23789689.2025.2525697">2</a>).
+
+<i> Funding</i>: <br>
+Support provided through both Oregon Sea Grant and the Cascadia CoPes (Coastlines and People) Hub. <br><br>
+
 </details>
 <!-- ============================ -->
 
