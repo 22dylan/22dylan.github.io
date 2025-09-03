@@ -79,7 +79,7 @@ My work assessing the impacts to the transportation network lead to a journal pa
 <figcaption>Example of loss of functionality and recovery for one of the coastal communities (Newport, OR).</figcaption><br>
 
 <i>Research products originating from this work</i>: <br>
-Two journal papers: one first author (<a href="https://doi.org/10.1061/(ASCE)IS.1943-555X.0000694">1</a>), one as a co-author (<a href="https://doi.org/10.1080/23789689.2025.2525697">2</a>).
+Two journal papers: one first author (<a href="https://doi.org/10.1061/(ASCE)IS.1943-555X.0000694">1</a>), one as a co-author (<a href="https://doi.org/10.1080/23789689.2025.2525697">2</a>). <br><br>
 
 <i> Funding</i>: <br>
 Support provided through both Oregon Sea Grant and the Cascadia CoPes (Coastlines and People) Hub. <br><br>
