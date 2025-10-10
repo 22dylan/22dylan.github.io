@@ -27,7 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Very short bio here."
   location         : "Portland, OR"
-  employer         : "Test University"
+  employer         : "Johns Hopkins University"
+  employer2        : "National Institute of Standards and Technology"
   uri              : # URL
   email            : "none@example.org" 
 
