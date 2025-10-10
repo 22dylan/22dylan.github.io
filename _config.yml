@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Dylan Sanderson"
   pronouns         : # example: "she/her"  
-  bio              : "Very short bio here."
+  bio              : "Coastal Engineer"
   location         : "Portland, OR"
   employer         : "Johns Hopkins University"
-  employer2        : "National Institute of Standards and Technology"
+  employer2        : "National Institute of Standards and Technology (PREP)"
   uri              : # URL
   email            : "none@example.org" 
 
