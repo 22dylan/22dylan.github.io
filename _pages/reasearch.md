@@ -12,7 +12,23 @@ This page summarizes my research and development projects completed throughout m
 <!-- ============================ -->
 <details>
 <summary> <b> Hurricane Overland Hazards and the Built Environment </b> </summary>
-<i> More coming soon. </i> <br>
+
+<i> Summary: </i> <br>
+This is on-going work looking at modeling hurricane overland surge, waves, and currents through the built environment. Coastal models of hurricane storm surge typically neglect the built environment, or represent it through changes in Manning's n, despite the importance of buildings in influencing overland waves and currents. For risk and catastrophe modlels, this can lead to inaccurate estimates of hurricane damage, translating to inaccurate estimates of economic losses. Preliminary results show that including buildings in numerical models of overland flow significantly influence wave heights at individual structures. As expected, buildings near to the shoreline act to shelter subsequent rows of buildings. Interestingly, however, including buildings in the simulations also results in some buildings observing larger wave heights compared to scenarios in which no buildings are included in the model domain.  <br><br>
+
+<i> Figures from this work: </i> <br>
+<img src="../images/research/ian-f1332.png"><br>
+<figcaption>Snapshot from an XBeach simulation with buildings (green polygons) included in the model domain. </figcaption><br>
+
+<i>Research products originating from this work</i>: <br>
+Currently in progress.
+
+<i> Funding</i>: <br>
+Funding from NIST provided as a part of the <a href="https://www.nist.gov/disaster-failure-studies/hurricane-ian">Hurricane Ian Study.</a> <br><br>
+
+<br><br>
+
+
 </details>
 <!-- ============================ -->
 
