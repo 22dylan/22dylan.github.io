@@ -90,6 +90,11 @@ var addressPoints = [
     -123.2620435
   ],
   [
+    "Waves and the Built Environment with XBeach<br />Hurricane ian Workshop #3; Alexandria, VA",
+    38.8051095,
+    -77.0470229
+  ],
+  [
     "Nearshore numerical methods<br />USACE Coastal and Hydraulics Laboratory Symposium; Vicksburg, MS",
     32.3528055,
     -90.8777342

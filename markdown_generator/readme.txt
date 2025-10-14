@@ -5,3 +5,7 @@ These .ipynb files are Jupyter notebook files that convert a TSV containing stru
 
 
 
+# -- DRS notes:
+Update talks.csv
+Run talks.py
+A map will be written to talkmap/map.html

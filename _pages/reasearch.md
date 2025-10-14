@@ -26,8 +26,6 @@ Currently in progress.
 <i> Funding</i>: <br>
 Funding from NIST provided as a part of the <a href="https://www.nist.gov/disaster-failure-studies/hurricane-ian">Hurricane Ian Study.</a> <br><br>
 
-<br><br>
-
 
 </details>
 <!-- ============================ -->
