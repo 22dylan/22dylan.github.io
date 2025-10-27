@@ -4,7 +4,7 @@ sitemap: true
 permalink: /publications/
 ---
 
-A list of my publications is below. This is also available in my CV. 
+A list of my publications is below. These are also available in my CV. 
 
 Peer Reviewed Papers
 ---
