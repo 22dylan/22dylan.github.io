@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "My Work"
 sitemap: true
-permalink: /research/
+permalink: /work/
 ---
 
 My research focuses on assessing the impacts of natural and climatic hazards on the built and social environments at regional scales. I am particularly interested in both the development of geospatial decision-support tools and using existing models in novel ways. 
